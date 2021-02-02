@@ -12,9 +12,9 @@ export default class BeforeLogin extends Component{
                         
                         Recycle 101
                     </Link>
-                    <Link className = 'link' to="/Login">LOGIN</Link>
-                    <Link className = 'link' to="/SignUp">SIGN UP</Link>
-  
+                    <Link className = 'link' to="/map">MAP</Link>
+                    <Link className = 'link' to="/login">LOGIN</Link>
+                    <Link className = 'link' to="/signUp">SIGN UP</Link>
                 </ul>  
             </nav>
         )
